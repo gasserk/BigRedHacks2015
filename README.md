@@ -155,6 +155,6 @@ FAQs are hosted on our wiki at https://github.com/izanamee/BigRedHacks2015/wiki/
 # Acknowledgements
 
 * __Core Team__: Brent Vukmer, Etienne LaVallee & Keith Gasser
-* __Executive Sponsors__: Jeff Elgin, Kranthi Dandamudi, Joelle Rowley & Darren McMahon
+* __Executive Sponsors__: Jeff Elgin, David Geen, Kranthi Dandamudi, Joelle Rowley & Darren McMahon
 * __OSS Support__: Al Sell
 * __Key Contributors__: Harish Patel, Larry Rosenzweig & Marshall Thompson
