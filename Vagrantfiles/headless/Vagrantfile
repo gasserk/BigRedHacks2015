@@ -13,7 +13,7 @@ Vagrant.configure('2') do |config|
     v.cpus = 1
 
     # Uncomment to add port-forwarding (Example NAT format for vb)
-    v.customize ['modifyvm', :id, '--natpf1', '"myAppServer,tcp,,8080,,8080"']
+    # v.customize ['modifyvm', :id, '--natpf1', '"myAppServer,tcp,,8080,,8080"']
   end
 
   config.vm.provision 'shell', inline: script
