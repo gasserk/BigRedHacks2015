@@ -143,6 +143,12 @@ image as you can continue to use GUI IDEs for development.  Additionally, you
 can execute `git` commands and they will work the same on your host machine and
 within the Izanamee virtual machine.  
 
+# Getting started using the Izanamee images
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qkroOQR4Kf8
+" target="_blank"><img src="http://img.youtube.com/vi/qkroOQR4Kf8/0.jpg" 
+alt="Intro to the Project Izanamee Family of Virtual Machines" width="240" height="180" border="10" /></a>
+
 # FAQ
 FAQs are hosted on our wiki at https://github.com/izanamee/BigRedHacks2015/wiki/FAQ
 
