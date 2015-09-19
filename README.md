@@ -108,6 +108,9 @@ begin using the Izanamee family of virtual machines:
   ```
   C:\> REM installs Git, Vagrant & VirtualBox
   C:\> choco install git vagrant virtualbox
+  
+  C:\> REM if you experience errors with "vagrant ssh" you may neeed to install ssh in your PATH, e.g.
+  C:\> set PATH=%PATH%;C:\Program Files\Git\usr\bin
   ```
 
 # How to Install the Izanamee Virtual Machines
