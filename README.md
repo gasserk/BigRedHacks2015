@@ -104,10 +104,10 @@ begin using the Izanamee family of virtual machines:
   && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
   ```
 
-  To install dependencies, open a non-privileged cmd.exd command prompt:
+  To install dependencies, open an administrative cmd.exd command prompt:
   ```
   C:\> REM installs Git, Vagrant & VirtualBox
-  C:\> choco install git.install vagrant virtualbox
+  C:\> choco install git vagrant virtualbox
   ```
 
 # How to Install the Izanamee Virtual Machines
